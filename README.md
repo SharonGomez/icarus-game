@@ -1,5 +1,5 @@
 # Icarus
-## The planet themed strategy game born out of a 7 day game jam and 5 developers of the theme <em>"The more you have the worse it is"</em>.
+## The planet themed strategy game born out of a 7 day game jam and 5 developers with the theme <em>"The more you have, the worse it is"</em>.
 
 ![Icarus main screen](https://github.com/SharonGomez/icarus-game/blob/main/Demos/main-menu.gif)
 
